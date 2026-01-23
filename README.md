@@ -1,4 +1,4 @@
-"# 📊 Prediksi Efektivitas Media Periklanan
+# 📊 Prediksi Efektivitas Media Periklanan
 
 Aplikasi prediksi efektivitas kampanye periklanan menggunakan **Linear Regression** untuk menganalisis dampak budget iklan terhadap hasil penjualan.
 
