@@ -8,7 +8,7 @@ Proyek ini dibuat sebagai bagian dari **Forum Group Discussion (FGD)** Mata Kuli
 
 ## 📈 Dataset
 
-Dataset yang digunakan adalah **Advertising Dataset** yang berisi:
+Dataset yang digunakan berasal dari kaggle https://www.kaggle.com/datasets/tawfikelmetwally/advertising-dataset , yang merupakan **Advertising Dataset** yang berisi:
 - **TV** - Budget iklan televisi (K$)
 - **Radio** - Budget iklan radio (K$)
 - **Newspaper** - Budget iklan koran (K$)
