@@ -58,9 +58,9 @@ Aplikasi akan terbuka di browser pada `http://localhost:8501`
 ```
 ## 🥼 Dibuat oleh
 
-Mario Mora Siregar
-Aqilla Zeba Fakhira
-Kevin Budiawan
+- Mario Mora Siregar
+- Aqilla Zeba Fakhira
+- Kevin Budiawan
 
 ## 📝 Lisensi
 
