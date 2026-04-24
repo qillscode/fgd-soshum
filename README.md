@@ -56,6 +56,11 @@ Aplikasi akan terbuka di browser pada `http://localhost:8501`
 ├── README.md                  # File ini
 └── Project_FIKOM_*.ipynb      # Notebook analisis & training
 ```
+## 🥼 Dibuat oleh
+
+Mario Mora Siregar
+Aqilla Zeba Fakhira
+Kevin Budiawan
 
 ## 📝 Lisensi
 
